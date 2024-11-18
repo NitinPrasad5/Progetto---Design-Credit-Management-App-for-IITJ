@@ -1,3 +1,3 @@
-# Progetto
+# Progetto - Project Management App
 
 
